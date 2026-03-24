@@ -1,2 +1,2 @@
 # first-project
-A Hello World web project
+A Hello World web application sample
