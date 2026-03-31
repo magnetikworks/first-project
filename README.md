@@ -5,3 +5,7 @@ This is line number two.
 ## Software Used
 - VS Code
 - Chrome
+
+| Name  | Color  |
+|---|---|
+| Apple  |  Red  |
